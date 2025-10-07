@@ -84,9 +84,9 @@ A aplicação será aberta automaticamente no seu navegador padrão.
 
 ## 🖼️ Demonstração
 
-![Interface principal da aplicação](https://imgur.com/a/oOTQk3S.png)
+![Interface principal da aplicação](https://i.imgur.com/lrW0Gs9.png)
 
-![Funcionalidade de busca na barra lateral](https://imgur.com/a/fKSRKOF.png)
+![Funcionalidade de busca na barra lateral](https://i.imgur.com/pOz4qDT.png)
 
 
 ## ✒️ Autor
