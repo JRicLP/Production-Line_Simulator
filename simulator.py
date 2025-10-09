@@ -77,7 +77,7 @@ st.divider()
 col_andamento, col_finalizados = st.columns(2)
 
 with col_andamento:
-    st.header(f"🏃 Em Produção ({len(st.session_state.fabrica.products_in_progress)})")
+    st.header(f" Em Produção ({len(st.session_state.fabrica.products_in_progress)})")
     if not st.session_state.fabrica.products_in_progress:
         st.info("Nenhum produto na linha de produção.")
     else:
